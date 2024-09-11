@@ -1,0 +1,30 @@
+* {
+    background-color: darkseagreen;
+    color: white;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    border: 3px solid gray;
+    text-align: center;
+    background-color: white;
+    color: darkseagreen;
+    display: inline-block;
+    padding: 10px;
+}
